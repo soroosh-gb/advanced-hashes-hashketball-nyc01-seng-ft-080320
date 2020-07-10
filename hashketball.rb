@@ -241,13 +241,6 @@ def big_shoe_rebounds()
   rebounds
 end
   
-    
-  
- 
-      
-      
-  
-  #2- return that player's number of rebounds 
-  #3- remember to think about return values here 
+
   
 
